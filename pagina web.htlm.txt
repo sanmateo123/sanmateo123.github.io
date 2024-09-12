@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mi Página Web</title>
+	<style>
+		body {
+			background-color: #72a1a7; /* Fondo azul */
+		}
+		.titulo {
+			color: #ffffff; /* Texto blanco */
+			font-size: 36px; /* Tamaño de fuente */
+			text-align: center; /* Alineación centrada */
+		}
+		.apartado {
+			background-color: #ade0e7; /* Fondo blanco */
+			padding: 20px; /* Espacio interior */
+			margin-bottom: 20px; /* Espacio entre apartados */
+			border: 1px solid #ddd; /* Borde gris */
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
+		}
+	</style>
+</head>
+<body>
+	<h1 class="titulo">DIOS QUE GUIA A SU PUEBLO EN MEDIO DE ESTE MUNDO</h1>
+
+        <center>
+
+<div class="apartado">
+<h2>Te damos la más cordial bienvenida a nuestro sitio web dedicado a las familias y personas de nuestra comunidad. Aquí podrás descubrir el crecimiento de nuestra parroquia a través de hermosas imágenes que reflejan nuestra fe y devoción.</h2>
+</div>
+
+
+
+
+
+	<div class="apartado">
+		<h2>Jubileo 2018</h2>
+               <img src="C:\Users\Usuario\Downloads\Mateo\JUBILEO 2018\WhatsApp Image 2024-06-17 at 12.47.30 PM (1).jpeg" widht="400" Height="400">
+               <img src="C:\Users\Usuario\Downloads\Mateo\JUBILEO 2018\WhatsApp Image 2024-06-17 at 12.47.30 PM (2).jpeg" widht="400" Height="400">
+               <img src="C:\Users\Usuario\Downloads\Mateo\JUBILEO 2018\WhatsApp Image 2024-06-17 at 12.47.30 PM (3).jpeg" widht="400" Height="400">
+               <img src="C:\Users\Usuario\Downloads\Mateo\JUBILEO 2018\WhatsApp Image 2024-06-17 at 12.47.30 PM (4).jpeg" widht="400" Height="400">
+               <img src="C:\Users\Usuario\Downloads\Mateo\JUBILEO 2018\WhatsApp Image 2024-06-17 at 12.47.30 PM (5).jpeg" widht="400" Height="400">
+               <img src="C:\Users\Usuario\Downloads\Mateo\JUBILEO 2018\WhatsApp Image 2024-06-17 at 12.47.30 PM.jpeg" widht="400" Height="400">
+               <img src="C:\Users\Usuario\Downloads\Mateo\JUBILEO 2018\WhatsApp Image 2024-06-17 at 12.47.31 PM (1).jpeg" widht="400" Height="400">
+
+
+
+
+
+
+               
+</div>
+	
+           <div class="apartado">
+		<h2>Fiesta Patronal 2018</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2018\WhatsApp Image 2024-06-17 at 1.34.51 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2018\WhatsApp Image 2024-06-17 at 1.34.51 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2018\WhatsApp Image 2024-06-17 at 1.34.51 PM (3).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2018\WhatsApp Image 2024-06-17 at 1.34.51 PM (4).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2018\WhatsApp Image 2024-06-17 at 1.34.51 PM (5).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2018\WhatsApp Image 2024-06-17 at 1.34.51 PM.jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2018\WhatsApp Image 2024-06-17 at 1.34.52 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2018\WhatsApp Image 2024-06-17 at 1.34.52 PM (3).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2018\WhatsApp Image 2024-06-17 at 1.34.52 PM.jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2018\WhatsApp Image 2024-06-17 at 1.34.53 PM.jpeg" widht="400" Height="400">
+
+
+	</div>
+
+
+
+
+	<div class="apartado">
+		<h2>Recibimiento a Sacerdotes</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\recibimiento a Sacerdotes\WhatsApp Image 2024-06-17 at 9.21.04 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\recibimiento a Sacerdotes\WhatsApp Image 2024-06-17 at 9.21.04 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\recibimiento a Sacerdotes\WhatsApp Image 2024-06-17 at 9.21.04 PM.jpeg" widht="300" Height="300">
+
+		 
+	</div>
+
+
+<div class="apartado">
+		<h2>Ordenaciónes Diaconales y Sacerdotales</h2>
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORDENACIÓNES DIACONALES Y SACERDOTALES\IMG_20221118_125704411_HDR.jpg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORDENACIÓNES DIACONALES Y SACERDOTALES\IMG_20221118_125713274.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORDENACIÓNES DIACONALES Y SACERDOTALES\IMG_20230519_113440873.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORDENACIÓNES DIACONALES Y SACERDOTALES\IMG_20230519_123423063.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORDENACIÓNES DIACONALES Y SACERDOTALES\IMG_20230519_150358624.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORDENACIÓNES DIACONALES Y SACERDOTALES\IMG_20230519_150441214_MP.jpg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORDENACIÓNES DIACONALES Y SACERDOTALES\WhatsApp Image 2024-06-17 at 8.08.09 PM (1).jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORDENACIÓNES DIACONALES Y SACERDOTALES\WhatsApp Image 2024-06-17 at 8.08.09 PM (2).jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORDENACIÓNES DIACONALES Y SACERDOTALES\WhatsApp Image 2024-06-17 at 8.08.09 PM.jpeg" widht="500" Height="500">
+
+		 
+	</div>
+
+
+
+<div class="apartado">
+		<h2>Scola</h2>
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SCOLA\WhatsApp Image 2024-06-17 at 9.35.38 PM.jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SCOLA\WhatsApp Image 2024-06-17 at 9.35.39 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SCOLA\WhatsApp Image 2024-06-17 at 9.35.39 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SCOLA\WhatsApp Image 2024-06-17 at 9.35.39 PM (3).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SCOLA\WhatsApp Image 2024-06-17 at 9.35.39 PM.jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SCOLA\WhatsApp Image 2024-06-17 at 9.35.40 PM.jpeg" widht="400" Height="400">
+		 
+	
+
+          </div>
+
+
+<div class="apartado">
+		<h2>Limpia tu corazón en cuaresma</h2>
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.52 PM (1).jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.52 PM.jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.53 PM (2).jpeg" widht="500" Height="500">
+                <img src="‪C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.53 PM (3).jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.53 PM.jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.54 PM.jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.55 PM (3).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.56 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.57 PM (1).jpeg" widht="400" Height="400">
+                <img src="‪C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.57 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.57 PM (3).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.57 PM (4).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.58 PM (1).jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.58 PM.jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.59 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.59 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.56.59 PM (3).jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.57.00 PM (1).jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.57.00 PM (2).jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.57.00 PM.jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.57.01 PM (1).jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.57.01 PM.jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.57.02 PM.jpeg" widht="500" Height="500">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\LIMPIA TU CORAZÓN EN CUARESMA\WhatsApp Image 2024-06-17 at 9.57.03 PM.jpeg" widht="500" Height="500">
+
+		
+
+	</div>
+
+
+
+
+
+<div class="apartado">
+		<h2>Encuentro de adulto mayor</h2>
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ENCUENTRO DE ADULTO MAYOR\WhatsApp Image 2024-06-17 at 8.47.32 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ENCUENTRO DE ADULTO MAYOR\WhatsApp Image 2024-06-17 at 8.47.32 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ENCUENTRO DE ADULTO MAYOR\WhatsApp Image 2024-06-17 at 8.47.32 PM.jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ENCUENTRO DE ADULTO MAYOR\WhatsApp Image 2024-06-17 at 8.47.33 PM.jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ENCUENTRO DE ADULTO MAYOR\WhatsApp Image 2024-06-17 at 8.47.34 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ENCUENTRO DE ADULTO MAYOR\WhatsApp Image 2024-06-17 at 8.47.34 PM.jpeg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+
+
+
+<div class="apartado">
+		<h2>Oración fieles difuntos</h2>
+                <img src="‪C:\Users\Usuario\Downloads\Iglesia\ORACIÓN FIELES DIFUNTOS\WhatsApp Image 2024-06-17 at 8.56.43 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORACIÓN FIELES DIFUNTOS\WhatsApp Image 2024-06-17 at 8.56.43 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORACIÓN FIELES DIFUNTOS\WhatsApp Image 2024-06-17 at 8.56.43 PM.jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORACIÓN FIELES DIFUNTOS\WhatsApp Image 2024-06-17 at 8.56.44 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORACIÓN FIELES DIFUNTOS\WhatsApp Image 2024-06-17 at 8.56.44 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORACIÓN FIELES DIFUNTOS\WhatsApp Image 2024-06-17 at 8.56.44 PM (4).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORACIÓN FIELES DIFUNTOS\WhatsApp Image 2024-06-17 at 8.56.44 PM (3).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORACIÓN FIELES DIFUNTOS\WhatsApp Image 2024-06-17 at 8.56.44 PM (5).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\ORACIÓN FIELES DIFUNTOS\WhatsApp Image 2024-06-17 at 8.56.44 PM.jpeg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+<div class="apartado">
+		<h2>Retiro adviento 2021</h2> 
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Retiro Adviento 2021\IMG_20211002_162425855.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Retiro Adviento 2021\IMG_20211002_162443782.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Retiro Adviento 2021\IMG_20211002_162452221.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Retiro Adviento 2021\IMG_20211002_162501114.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Retiro Adviento 2021\IMG_20211002_162515644_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Retiro Adviento 2021\IMG_20211002_162520943_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Retiro Adviento 2021\IMG_20211002_162528660_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Retiro Adviento 2021\IMG_20211002_163225651.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Retiro Adviento 2021\IMG_20211002_165633500.jpg" widht="400" Height="400">
+		 
+	</div>
+
+
+
+
+
+
+
+<div class="apartado">
+		<h2>Misa para enfermos</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\MISA PARA ENFERMOS 2028\WhatsApp Image 2024-06-17 at 1.17.14 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\MISA PARA ENFERMOS 2028\WhatsApp Image 2024-06-17 at 1.17.14 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\MISA PARA ENFERMOS 2028\WhatsApp Image 2024-06-17 at 1.17.14 PM (3).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\MISA PARA ENFERMOS 2028\WhatsApp Image 2024-06-17 at 1.17.14 PM.jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\MISA PARA ENFERMOS 2028\WhatsApp Image 2024-06-17 at 1.17.32 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\MISA PARA ENFERMOS 2028\WhatsApp Image 2024-06-17 at 1.17.32 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\MISA PARA ENFERMOS 2028\WhatsApp Image 2024-06-17 at 1.17.32 PM (3).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\MISA PARA ENFERMOS 2028\WhatsApp Image 2024-06-17 at 1.17.32 PM.jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\MISA PARA ENFERMOS 2028\WhatsApp Image 2024-06-17 at 1.17.33 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\MISA PARA ENFERMOS 2028\WhatsApp Image 2024-06-17 at 1.17.33 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\MISA PARA ENFERMOS 2028\WhatsApp Image 2024-06-17 at 1.17.33 PM.jpeg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+
+
+
+
+<div class="apartado">
+		<h2>Sinodo 2022</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_173517258_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_173526176_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_173549645.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_173604524.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_173635597.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_173652845.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_173835610.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_173845152.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_173848232.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_181841122.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_181856039_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_181857853_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_181905872_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\Sinodo 2022\IMG_20210721_181915848_HDR.jpg" widht="400" Height="400">
+		 
+	</div>
+
+
+
+
+
+
+
+<div class="apartado">
+		<h2>Retiros iniciacion escuela de la fe</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220108_132854178.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220108_132855634_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220108_132856294_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220108_132857369_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220108_132858627_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220108_132859574.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220108_143917249.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220108_143921485.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220108_143925887.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220109_132859330.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220109_132909096_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\RETIROS INICIACION ESC DE LA FE\IMG_20220109_132943641_HDR.jpg" widht="400" Height="400">
+		 
+	</div>
+
+
+
+
+
+
+
+<div class="apartado">
+		<h2>Celebración Santos Oleos</h2>
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CELEBRACIÓN SANTOS OLÉOS\IMG_20230404_194703265.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CELEBRACIÓN SANTOS OLÉOS\IMG_20230404_194704315.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CELEBRACIÓN SANTOS OLÉOS\IMG_20230404_194705505.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CELEBRACIÓN SANTOS OLÉOS\IMG_20230404_194707909.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CELEBRACIÓN SANTOS OLÉOS\IMG_20230404_194723323_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CELEBRACIÓN SANTOS OLÉOS\IMG_20230404_194743107_HDR.jpg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+
+
+
+
+<div class="apartado">
+		<h2>Virgen de los Dolores</h2>
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LOS DOLORES\IMG_20240321_214237463.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LOS DOLORES\IMG_20240322_090742200.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LOS DOLORES\IMG_20240322_090800901_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LOS DOLORES\IMG_20240322_090810013.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LOS DOLORES\IMG_20240322_092226986_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LOS DOLORES\IMG_20240322_092234029_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LOS DOLORES\IMG_20240322_092409912_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LOS DOLORES\IMG_20240322_092417466_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LOS DOLORES\IMG_20240322_203815659_HDR.jpg" widht="400" Height="400">
+		 
+	</div>
+
+
+
+
+
+
+
+<div class="apartado">
+		<h2>Coronación Virgen María</h2>
+
+                <img src="‪C:\Users\Usuario\Downloads\Iglesia\CORONACIÓN VIRGEN MARIA\IMG_20230531_204430249_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORONACIÓN VIRGEN MARIA\IMG_20230531_204436709_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORONACIÓN VIRGEN MARIA\IMG_20230531_205115624.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORONACIÓN VIRGEN MARIA\IMG_20230531_210051496.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORONACIÓN VIRGEN MARIA\IMG_20230531_210057206.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORONACIÓN VIRGEN MARIA\IMG_20230531_210812511_HDR.jpg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+
+
+
+
+<div class="apartado">
+		<h2>Festividad San José</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20220422_135823413_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20220422_135934854.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20220423_175603361_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20230502_182925671_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20230502_182934177.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20230503_181948762_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20230504_184405787_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20230504_184415918.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20230505_183649806.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_094951129_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_095007369.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_101159551_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_101933086_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_101952572_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_102002490_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_131234007.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_131900595_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_133229847.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_141737244.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_141828426.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_141832413_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_142050027.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_142320145_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_142712042_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240428_143933274_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240501_090844490.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240501_175539310_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240501_175758813_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240501_175814606_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240501_180206141_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240501_180254211.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240501_180314116_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\IMG_20240501_194333242_HDR.jpg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+
+
+
+
+<div class="apartado">
+		<h2>Pentecostés 2023</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\PENTECOSTÉS 2023\IMG_20230527_163720875.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\PENTECOSTÉS 2023\IMG_20230527_163732832.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\PENTECOSTÉS 2023\IMG_20230527_163801597_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\PENTECOSTÉS 2023\IMG_20230527_164117133_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\PENTECOSTÉS 2023\IMG_20230527_164126504_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\PENTECOSTÉS 2023\IMG_20230527_164316039.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\PENTECOSTÉS 2023\IMG_20230527_165616828.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\PENTECOSTÉS 2023\IMG_20230527_165651842.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\PENTECOSTÉS 2023\IMG_20230527_170009704.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\PENTECOSTÉS 2023\IMG_20230527_184728160.jpg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+
+
+
+
+<div class="apartado">
+		<h2>Corpus Cristi 2023</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230608_174000730_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230608_174135656_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230608_175532392_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230608_181703001_HDR.jpgC:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230608_175717132_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_150854283_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_150903159.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_183818723.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_183830357.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_183836810.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_183839462.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_183843386.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_183847313.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_183853776.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_184054101.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_184055317.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_184818778_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_184822255_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_184825220_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\CORPUS CRISTI 2023\IMG_20230813_185002168_HDR.jpg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+
+<div class="apartado">
+		<h2>Santo Jubileo</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220810_221325987_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220810_225047630.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220810_225056270.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220810_230926816.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220810_230943443_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220810_230947957_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220811_095441838.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220811_095452403.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220811_095527896.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220811_095540393.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220811_095628709.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220814_180024396.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220814_180024647.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220814_180036090.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\SANTO JUBILEO 2022,  2023\IMG_20220814_191013372.jpg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+
+
+<div class="apartado">
+		<h2>Virgen de la dormicion</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LA DORMICI{ON 2023\IMG_20230814_162311439_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LA DORMICI{ON 2023\IMG_20230814_163229375_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIRGEN DE LA DORMICI{ON 2023\IMG_20230814_163239155_HDR.jpg" widht="400" Height="400">
+		 
+	</div>
+
+
+
+
+
+
+<div class="apartado">
+		<h2>Fiesta patronal 2023</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2023\IMG_20230920_194233677.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2023\IMG_20230920_194249280.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2023\IMG_20230921_080439023_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2023\IMG_20230921_180638242.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2023\IMG_20230921_180833311.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2023\IMG_20230921_180949055.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2023\IMG_20230921_192347543.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2023\IMG_20230921_192541447_HDR.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FIESTA PATRONAL 2023\IMG_20230921_192811066_HDR.jpg" widht="400" Height="400">
+		 
+	</div>
+
+
+
+
+
+<div class="apartado">
+		<h2>Vigilia de espigas 2023</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIGILIA DE ESPIGAS 2023\IMG_20231118_173004095.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIGILIA DE ESPIGAS 2023\IMG_20231118_173015864.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIGILIA DE ESPIGAS 2023\IMG_20231118_173023376.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\VIGILIA DE ESPIGAS 2023\IMG_20231118_173059687_BURST000_COVER_TOP.jpg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+
+
+<div class="apartado">
+		<h2>Expo Pastorales</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\EXPO PASTORALES\WhatsApp Image 2024-06-17 at 9.46.46 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\EXPO PASTORALES\WhatsApp Image 2024-06-17 at 9.46.46 PM.jpeg" widht="400" Height="400">
+                <img src="‪C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\EXPO PASTORALES\WhatsApp Image 2024-06-17 at 9.46.47 PM (2).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\EXPO PASTORALES\WhatsApp Image 2024-06-17 at 9.46.47 PM (3).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\EXPO PASTORALES\WhatsApp Image 2024-06-17 at 9.46.47 PM (4).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\EXPO PASTORALES\WhatsApp Image 2024-06-17 at 9.46.47 PM.jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\EXPO PASTORALES\WhatsApp Image 2024-06-17 at 9.46.48 PM.jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\EXPO PASTORALES\WhatsApp Image 2024-06-17 at 9.46.47 PM (1).jpeg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Iglesia\FESTIVIDAD SAN JOSÉ 2022, 2023 Y 2024\Imagen de WhatsApp 2024-09-11 a las 00.32.50_7be48aa0.jpg" widht="400" Height="400">
+
+
+
+		 
+	</div>
+
+
+<div class="apartado">
+		<h2>Retiro de Monagillos</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.42_4b49c4a6.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.42_e8a8ce00.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.43_ecc43c45.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.51_3a411eba.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.51_567aefd9.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.52_00e77bb2.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.52_4798134f.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.52_b5288646.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.53_32c9a78c.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.54_5459e228.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.54_989897fb.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.28.54_ac5acc72.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Retiro de monaguillos\Imagen de WhatsApp 2024-09-09 a las 21.41.51_12fa51ca.jpg" widht="400" Height="400">
+		 
+	</div>
+
+
+
+
+
+
+	</div>
+
+
+<div class="apartado">
+		<h2>Festividad Sagrado Corazon de Jesús</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Festividad Sagrado Corazon de Jesús\Imagen de WhatsApp 2024-09-09 a las 21.41.51_046ed7ee.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Festividad Sagrado Corazon de Jesús\Imagen de WhatsApp 2024-09-09 a las 21.41.51_a67fa84e.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Festividad Sagrado Corazon de Jesús\Imagen de WhatsApp 2024-09-09 a las 21.41.51_aac6a7e3.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Festividad Sagrado Corazon de Jesús\Imagen de WhatsApp 2024-09-09 a las 21.41.52_79d56067.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Festividad Sagrado Corazon de Jesús\Imagen de WhatsApp 2024-09-09 a las 21.41.52_737d921c.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Festividad Sagrado Corazon de Jesús\Imagen de WhatsApp 2024-09-09 a las 21.41.53_58b68411.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Festividad Sagrado Corazon de Jesús\Imagen de WhatsApp 2024-09-09 a las 21.41.53_6265c4bb.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Festividad Sagrado Corazon de Jesús\Imagen de WhatsApp 2024-09-09 a las 21.41.54_cb124281.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Festividad Sagrado Corazon de Jesús\Imagen de WhatsApp 2024-09-09 a las 21.41.54_e52e682a.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Festividad Sagrado Corazon de Jesús\Imagen de WhatsApp 2024-09-09 a las 21.41.55_57d15638.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Festividad Sagrado Corazon de Jesús\Imagen de WhatsApp 2024-09-09 a las 21.41.55_763c2b6b.jpg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+	</div>
+
+
+<div class="apartado">
+		<h2>Hora Santa</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Hora Santa\Imagen de WhatsApp 2024-09-10 a las 21.55.42_d6444eee.jpg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+	</div>
+
+
+<div class="apartado">
+		<h2>Semana Santa</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Semana Santa\Imagen de WhatsApp 2024-09-10 a las 21.57.29_2b498019.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Semana Santa\Imagen de WhatsApp 2024-09-10 a las 21.57.29_6521797d.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Semana Santa\Imagen de WhatsApp 2024-09-10 a las 21.57.29_d57a5c10.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Semana Santa\Imagen de WhatsApp 2024-09-10 a las 21.57.30_9d2d0a7d.jpg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+
+	</div>
+
+
+<div class="apartado">
+		<h2>Expo vocacional de la arquidiócesis</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.08_fb06e424.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.09_36ea22e4.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.09_b406008f.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.09_c940db5d.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.10_7a47a200.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.10_20cd3787.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.10_49930b85.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.11_cbd49a0a.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.12_76e4fd37.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.12_eb5a54b1.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.17_7c2045a7.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Expo vocaciónal de la arquidiosisi\Imagen de WhatsApp 2024-09-10 a las 23.03.50_f90b20fe.jpg" widht="400" Height="400">
+		 
+	</div>
+
+
+
+
+	</div>
+
+
+<div class="apartado">
+		<h2>Jornada de limpieza</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.19_c1dc9d3c.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.20_02cdac4d.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.21_522845b9.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.22_867f762e.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.23_307919e5.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.23_bcb2bdfd.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.24_39309827.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.24_d3641f74.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.25_3d97424b.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.25_8f5c0938.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.26_a181934c.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.27_bd40636e.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.28_e466f8b2.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.29_05d93972.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Jornada de limpieza\Imagen de WhatsApp 2024-09-10 a las 23.11.30_975779d2.jpg" widht="400" Height="400">
+		 
+	</div>
+
+
+
+
+	</div>
+
+
+<div class="apartado">
+		<h2>Santo Jubileo 2024</h2>
+
+                <img src="C:\Users\Usuario\Downloads\Santo Jubileo 2024\Imagen de WhatsApp 2024-09-10 a las 23.32.14_6c7cee39.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Santo Jubileo 2024\Imagen de WhatsApp 2024-09-10 a las 23.32.15_09dfa8da.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Santo Jubileo 2024\Imagen de WhatsApp 2024-09-10 a las 23.32.15_adfc6aee.jpg" widht="400" Height="400">
+                <img src="C:\Users\Usuario\Downloads\Santo Jubileo 2024\Imagen de WhatsApp 2024-09-10 a las 23.32.15_da1805be.jpg" widht="400" Height="400">
+
+		 
+	</div>
+
+
+
+
+
+ </center>
+
+
+
+</body>
+</html>
+
+
+
